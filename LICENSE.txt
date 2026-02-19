@@ -1,0 +1,66 @@
+COMMERCIAL LICENSE AGREEMENT
+=============================
+
+BusinessPro Website Template - License Terms
+
+GRANT OF LICENSE
+----------------
+This License Agreement grants you the following rights:
+
+1. USE RIGHTS
+   - Use the template for unlimited commercial projects
+   - Sell websites built with this template to clients
+   - Modify, customize, and adapt the template
+   - Use in personal and client projects
+   - Combine with other works
+
+2. WHAT YOU CAN DO
+   ✓ Sell to unlimited clients
+   ✓ Use for your own business
+   ✓ Modify code and design
+   ✓ Remove attribution
+   ✓ Bundle with other services
+   ✓ Create derivative works
+   ✓ Charge any price you want
+
+3. WHAT YOU CANNOT DO
+   ✗ Resell as a template (must be part of a complete website)
+   ✗ Distribute source files publicly
+   ✗ Claim original authorship
+   ✗ Use in illegal activities
+
+4. CLIENT USAGE
+   Your clients receive a completed website, not the template files.
+   They cannot extract and reuse the template separately.
+
+5. ATTRIBUTION
+   No attribution required. You may remove all references to 
+   "BusinessPro" or the original creator.
+
+6. WARRANTY DISCLAIMER
+   This template is provided "as is" without warranties.
+   Test thoroughly before using in production.
+
+7. LIABILITY
+   The creator is not liable for any damages arising from 
+   use of this template.
+
+8. SUPPORT
+   No official support included.
+   Template uses standard web technologies any developer can support.
+
+9. UPDATES
+   This license includes the current version only.
+   Future updates may require separate purchase.
+
+10. TERMINATION
+    This license is perpetual and cannot be revoked.
+
+ACCEPTANCE
+----------
+By using this template, you agree to these terms.
+
+---
+
+License Version: 1.0
+Date: 2024

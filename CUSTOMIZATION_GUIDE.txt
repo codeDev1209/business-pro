@@ -1,0 +1,101 @@
+CUSTOMIZATION GUIDE FOR CLIENTS
+================================
+
+Thank you for purchasing the BusinessPro Website Template!
+
+QUICK START
+-----------
+1. Extract all files from the zip folder
+2. Open index.html in your browser to preview
+3. Edit files using any text editor (Notepad++, VS Code, Sublime Text)
+4. Save changes and refresh browser to see updates
+
+EASY CUSTOMIZATIONS
+-------------------
+
+CHANGING YOUR COMPANY NAME:
+- Search for "BusinessPro" in all HTML files
+- Replace with your company name
+- Update the logo icon (the "B" in a circle) if desired
+
+UPDATING CONTACT INFORMATION:
+- Find the Contact section in index.html
+- Update phone numbers, emails, and addresses
+- Don't forget to update the footer too!
+
+REPLACING IMAGES:
+- Images are loaded from Unsplash URLs
+- Replace with your own by changing the src attribute
+- Recommended image size: 1200x800 pixels
+
+CHANGING COLORS:
+Open css/style.css and find :root section (around line 8)
+Change these color codes to match your brand:
+- --primary-color: Your main brand color
+- --secondary-color: Your accent color
+
+EDITING SERVICES:
+- Open services.html
+- Find service sections
+- Replace text with your actual services
+- Update or remove features as needed
+
+UPDATING PRICING:
+- Open pricing.html
+- Find pricing cards
+- Edit the prices in the data-monthly and data-yearly attributes
+- Update feature lists for each plan
+
+CONNECTING FORMS:
+The contact form currently shows a success message only.
+To make it work:
+1. Sign up for a form service (Formspree, Netlify Forms, etc.)
+2. Add their form action URL to the form tag
+3. Or connect to your own backend
+
+TESTING YOUR WEBSITE
+--------------------
+Before launching:
+☐ Test on mobile devices
+☐ Test on different browsers (Chrome, Firefox, Safari)
+☐ Click all navigation links
+☐ Test the contact form
+☐ Check all images load correctly
+☐ Verify all your information is correct
+
+GOING LIVE
+----------
+1. Purchase web hosting and domain name
+2. Upload all files to your hosting server
+3. Test the live website
+4. Submit to Google Search Console
+5. Share on social media!
+
+NEED HELP?
+----------
+This template uses standard HTML, CSS, and JavaScript.
+Any web developer can help you customize it further.
+
+FEATURES INCLUDED
+-----------------
+✓ Mobile responsive
+✓ Fast loading
+✓ SEO optimized
+✓ Contact form
+✓ Smooth animations
+✓ Professional design
+✓ Easy to customize
+✓ Cross-browser compatible
+
+TIPS FOR SUCCESS
+----------------
+1. Use high-quality images
+2. Write compelling content
+3. Keep your contact information updated
+4. Regular backups of your files
+5. Monitor website performance
+
+---
+
+You're all set! This template will help you create a professional
+online presence for your business. Good luck!
