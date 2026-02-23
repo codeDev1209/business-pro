@@ -1,6 +1,10 @@
 # BusinessPro Website Template
 
+[![Live Preview](https://img.shields.io/badge/Live-Preview-Visit-brightgreen?style=for-the-badge)](https://your-live-link.netlify.app)
+
 A stunning, professional, and fully responsive business website template designed for agencies, startups, and service-based businesses. Features modern animations, particles effects, and a premium look.
+
+**🚀 Live Demo:** [https://your-live-link.netlify.app](https://your-live-link.netlify.app)
 
 ## 📸 Screenshots
 
