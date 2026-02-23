@@ -20,8 +20,8 @@ A stunning, professional, and fully responsive business website template designe
 ### Contact Form
 ![Contact](screenshots/contact.png)
 
-### Mobile Responsive
-![Mobile](screenshots/mobile.png)
+### About Section
+![About](screenshots/about.png)
 
 ---
 
