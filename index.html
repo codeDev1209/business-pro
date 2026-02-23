@@ -7,8 +7,24 @@
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
 </head>
 <body>
+    <!-- Preloader -->
+    <div class="preloader" id="preloader">
+        <div class="preloader-content">
+            <div class="loader">
+                <div class="loader-ring"></div>
+                <div class="loader-ring"></div>
+                <div class="loader-ring"></div>
+            </div>
+            <div class="preloader-text">BusinessPro</div>
+        </div>
+    </div>
+
+    <!-- Custom Cursor -->
+    <div class="custom-cursor" id="cursor"></div>
+    <div class="cursor-follower" id="cursorFollower"></div>
     <!-- Navigation -->
     <nav class="navbar" id="navbar">
         <div class="container">
@@ -37,11 +53,17 @@
 
     <!-- Hero Section -->
     <section id="home" class="hero">
+        <div class="hero-bg-effects">
+            <div class="hero-circle circle-1"></div>
+            <div class="hero-circle circle-2"></div>
+            <div class="hero-circle circle-3"></div>
+        </div>
+        <div id="particles-js"></div>
         <div class="container">
             <div class="hero-content">
                 <div class="hero-text">
                     <span class="badge">Welcome to BusinessPro</span>
-                    <h1>Grow Your Business With <span class="highlight">Professional Solutions</span></h1>
+                    <h1>Grow Your Business With <span class="highlight typing-text" data-typed='["Professional Solutions", "Creative Design", "Digital Marketing", "Innovation"]'></span></h1>
                     <p>We help businesses succeed with modern web solutions, strategic marketing, and innovative technology. Transform your digital presence today.</p>
                     <div class="hero-buttons">
                         <a href="#services" class="btn btn-primary btn-lg">Explore Services</a>
@@ -506,6 +528,8 @@
         <i class="fas fa-arrow-up"></i>
     </button>
 
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/dist/particles.min.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
