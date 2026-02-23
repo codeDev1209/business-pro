@@ -4,7 +4,7 @@
 
 A stunning, professional, and fully responsive business website template designed for agencies, startups, and service-based businesses. Features modern animations, particles effects, and a premium look.
 
-**Live Demo:** [https://your-live-link.netlify.app](https://your-live-link.netlify.app)
+**Live Demo:** (https://699c3b632f53322447838b4f--luxury-jalebi-95a055.netlify.app/)
 
 ## Screenshots
 
